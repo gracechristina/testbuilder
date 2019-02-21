@@ -1,0 +1,4 @@
+dependencies:
+- numpy=1.12.1
+- pip:
+  - pandas==0.20.3
